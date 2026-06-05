@@ -84,4 +84,4 @@ Automatically restores data consistency if any transaction fails.
 
 ## 👨‍💻 Author
 
-**Parth Bansal**
+**Anish Sharma**
